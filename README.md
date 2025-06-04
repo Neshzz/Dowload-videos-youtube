@@ -43,7 +43,7 @@ Um script Python simples e intuitivo para baixar playlists completas do YouTube 
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/Neshzz/Dowload-videos-youtube.git
+git clone https://github.com/Neshzz/youtube-playlist-downloader.git
 cd youtube-playlist-downloader
 ```
 
